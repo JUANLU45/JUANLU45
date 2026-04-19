@@ -5,5 +5,5 @@ https://apisdom.com
 
 ![Resultado en Google mostrando ApisDom](ApisDom-google2.png)
 
-Es una satisfacción ver a ApisDom como referencia en Google junto a actores consolidados del sector.  
+Es una alegria enorme ver ApisDom como referencia en Google junto a los grandes del sector.  
 Validación del trabajo en estos meses. Contexto cambiante, misma línea de ejecución.
