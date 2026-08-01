@@ -1,6 +1,6 @@
-# Juanlu45
+# ApisDom
 
-Arquitectura de sistemas e IA en producción.  
+Arquitectura de sistemas e IA.  
 https://apisdom.com  
 
 ![Resultado en Google mostrando ApisDom](ApisDom-google2.png)
