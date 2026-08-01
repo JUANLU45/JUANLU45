@@ -17,4 +17,4 @@ Puedes ver el funcionamiento real de nuestra infraestructura, la gestión de sus
 ### 📺 Demostración de la plataforma La AutopsIA
 Puedes ver el funcionamiento real de La AutopsIA, el seguimiento de incidentes, la comparación de modelos y los paneles de análisis haciendo clic sobre la siguiente imagen de portada:
 
-[![Ver demostración de La AutopsIA](https://img.youtube.com/vi/Ew6Odtc5HTM/maxresdefault.jpg)](https://apisdom.com/videos/por-que-fallan-los-llm-analisis-forense-de-la-ia)
+[![Ver demostración de La AutopsIA](https://i.ytimg.com/vi/Ew6Odtc5HTM/hqdefault.jpg)](https://apisdom.com/videos/por-que-fallan-los-llm-analisis-forense-de-la-ia)
